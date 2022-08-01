@@ -8,14 +8,4 @@
 
 # 1) Yukarı verilen dizinin Binary-Search-Tree aşamaları:
 
-`
-               7
-              / \
-             5   8
-            / \    \
-           1   6    9
-          / \
-         0   3
-             / \
-            2    4
-`
+![binary-search-tree-son-hal](binary-search-tree-son-hal.png)
